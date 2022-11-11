@@ -1,1 +1,2 @@
-# 15-videos23-24-25-26-leela-web-dev-angular-ngrx-counter-start-implemented-back-end-and-ngrx-effects
+En estos ultimos videos hemos implementado el back end con los endpoints para el login y register
+En el front hemos instalado la libreria @ngrx/effects y la hemos utilizado en el login, creado el servicio y el archivo de efectos
